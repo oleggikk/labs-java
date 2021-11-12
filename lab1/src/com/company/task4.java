@@ -2,9 +2,6 @@ package com.company;
 
 import java.util.Scanner;
 
-import static java.lang.Integer.MAX_VALUE;
-import static java.lang.Integer.MIN_VALUE;
-
 public class task4 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
